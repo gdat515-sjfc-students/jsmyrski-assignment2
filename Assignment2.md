@@ -25,7 +25,7 @@ because the data that I will be looking at only goes to 2017.
 
 The initial dataset has additional meats including turkey and other
 poultry so I will be taking a subset out that only has the chicken data
-in it. Additionally, I added a “Average” column that takes the amount of
+in it. Additionally, I added an “Average” column that takes the amount of
 chicken (in millions of pounds) and divides it by the Population (in
 millions).
 
