@@ -5,7 +5,7 @@
 Since Superbowl weekend is right around the corner, it got me thinking
 about all of the delicious snacks I will be eating during the big game.
 One of the most commonly consumed foods during this day, especially in
-the Western New York area, is chicken wings. Chicken in general is a
+the Western New York area, are chicken wings. Chicken in general is a
 commonly consumed food throughout the United States. However, with the
 rise of health conscience individuals and the increase of fad diets and
 plant-based foods, how will this affect the overall consumption of
